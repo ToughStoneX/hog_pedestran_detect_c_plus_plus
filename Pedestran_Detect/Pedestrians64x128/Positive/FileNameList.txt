@@ -1,0 +1,1848 @@
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00001.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00002.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00003.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00004.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00005.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00006.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00007.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00008.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00009.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00010.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00011.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00012.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00013.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00014.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00015.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00016.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00017.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00018.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00019.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00020.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00021.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00022.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00023.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00024.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00025.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00026.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00027.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00028.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00029.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00030.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00031.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00032.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00033.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00034.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00035.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00036.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00037.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00038.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00039.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00040.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00041.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00042.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00043.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00044.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00045.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00046.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00047.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00048.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00049.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00050.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00051.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00052.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00053.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00054.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00055.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00056.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00057.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00058.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00059.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00060.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00061.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00062.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00063.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00064.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00065.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00066.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00067.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00068.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00069.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00070.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00071.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00072.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00073.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00074.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00075.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00076.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00077.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00078.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00079.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00080.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00081.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00082.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00083.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00084.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00085.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00086.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00087.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00088.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00089.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00090.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00091.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00092.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00093.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00094.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00095.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00096.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00097.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00098.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00099.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00100.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00101.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00102.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00103.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00104.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00105.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00106.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00107.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00108.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00109.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00110.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00111.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00112.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00113.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00114.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00115.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00116.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00117.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00118.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00119.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00120.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00121.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00122.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00123.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00124.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00125.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00126.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00127.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00128.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00129.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00130.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00131.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00132.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00133.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00134.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00135.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00136.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00137.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00138.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00139.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00140.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00141.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00142.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00143.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00144.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00145.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00146.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00147.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00148.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00149.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00150.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00151.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00152.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00153.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00154.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00155.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00156.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00157.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00158.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00159.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00160.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00161.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00162.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00163.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00164.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00165.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00166.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00167.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00168.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00169.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00170.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00171.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00172.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00173.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00174.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00175.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00176.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00177.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00178.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00179.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00180.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00181.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00182.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00183.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00184.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00185.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00186.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00187.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00188.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00189.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00190.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00191.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00192.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00193.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00194.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00195.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00196.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00197.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00198.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00199.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00200.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00201.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00202.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00203.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00204.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00205.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00206.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00207.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00208.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00209.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00210.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00211.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00212.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00213.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00214.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00215.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00216.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00217.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00218.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00219.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00220.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00221.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00222.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00223.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00224.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00225.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00226.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00227.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00228.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00229.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00230.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00231.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00232.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00233.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00234.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00235.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00236.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00237.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00238.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00239.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00240.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00241.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00242.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00243.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00244.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00245.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00246.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00247.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00248.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00249.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00250.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00251.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00252.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00253.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00254.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00255.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00256.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00257.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00258.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00259.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00260.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00261.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00262.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00263.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00264.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00265.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00266.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00267.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00268.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00269.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00270.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00271.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00272.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00273.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00274.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00275.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00276.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00277.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00278.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00279.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00280.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00281.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00282.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00283.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00284.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00285.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00286.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00287.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00288.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00289.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00290.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00291.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00292.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00293.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00294.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00295.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00296.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00297.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00298.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00299.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00300.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00301.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00302.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00303.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00304.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00305.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00306.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00307.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00308.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00309.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00310.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00311.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00312.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00313.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00314.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00315.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00316.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00317.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00318.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00319.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00320.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00321.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00322.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00323.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00324.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00325.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00326.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00327.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00328.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00329.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00330.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00331.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00332.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00333.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00334.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00335.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00336.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00337.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00338.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00339.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00340.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00341.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00342.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00343.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00344.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00345.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00346.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00347.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00348.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00349.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00350.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00351.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00352.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00353.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00354.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00355.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00356.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00357.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00358.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00359.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00360.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00361.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00362.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00363.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00364.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00365.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00366.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00367.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00368.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00369.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00370.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00371.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00372.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00373.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00374.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00375.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00376.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00377.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00378.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00379.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00380.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00381.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00382.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00383.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00384.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00385.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00386.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00387.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00388.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00389.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00390.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00391.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00392.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00393.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00394.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00395.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00396.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00397.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00398.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00399.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00400.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00401.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00402.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00403.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00404.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00405.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00406.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00407.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00408.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00409.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00410.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00411.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00412.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00413.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00414.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00415.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00416.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00417.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00418.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00419.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00420.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00421.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00422.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00423.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00424.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00425.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00426.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00427.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00428.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00429.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00430.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00431.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00432.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00433.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00434.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00435.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00436.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00437.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00438.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00439.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00440.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00441.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00442.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00443.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00444.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00445.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00446.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00447.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00448.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00449.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00450.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00451.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00452.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00453.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00454.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00455.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00456.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00457.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00458.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00459.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00460.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00461.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00462.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00463.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00464.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00465.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00466.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00467.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00468.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00469.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00470.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00471.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00472.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00473.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00474.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00475.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00476.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00477.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00478.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00479.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00480.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00481.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00482.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00483.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00484.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00485.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00486.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00487.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00488.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00489.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00490.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00491.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00492.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00493.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00494.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00495.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00496.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00497.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00498.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00499.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00500.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00501.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00502.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00503.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00504.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00505.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00506.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00507.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00508.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00509.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00510.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00511.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00512.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00513.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00514.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00515.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00516.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00517.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00518.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00519.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00520.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00521.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00522.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00523.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00524.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00525.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00526.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00527.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00528.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00529.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00530.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00531.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00532.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00533.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00534.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00535.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00536.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00537.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00538.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00539.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00540.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00541.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00542.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00543.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00544.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00545.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00546.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00547.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00548.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00549.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00550.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00551.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00552.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00553.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00554.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00555.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00556.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00557.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00558.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00559.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00560.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00561.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00562.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00563.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00564.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00565.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00566.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00567.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00568.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00569.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00570.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00571.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00572.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00573.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00574.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00575.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00576.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00577.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00578.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00579.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00580.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00581.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00582.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00583.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00584.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00585.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00586.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00587.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00588.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00589.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00590.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00591.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00592.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00593.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00594.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00595.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00596.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00597.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00598.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00599.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00600.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00601.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00602.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00603.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00604.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00605.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00606.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00607.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00608.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00609.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00610.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00611.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00612.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00613.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00614.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00615.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00616.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00617.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00618.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00619.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00620.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00621.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00622.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00623.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00624.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00625.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00626.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00627.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00628.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00629.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00630.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00631.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00632.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00633.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00634.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00635.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00636.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00637.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00638.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00639.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00640.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00641.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00642.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00643.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00644.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00645.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00646.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00647.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00648.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00649.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00650.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00651.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00652.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00653.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00654.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00655.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00656.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00657.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00658.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00659.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00660.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00661.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00662.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00663.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00664.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00665.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00666.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00667.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00668.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00669.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00670.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00671.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00672.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00673.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00674.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00675.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00676.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00677.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00678.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00679.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00680.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00681.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00682.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00683.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00684.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00685.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00686.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00687.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00688.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00689.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00690.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00691.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00692.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00693.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00694.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00695.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00696.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00697.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00698.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00699.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00700.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00701.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00702.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00703.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00704.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00705.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00706.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00707.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00708.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00709.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00710.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00711.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00712.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00713.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00714.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00715.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00716.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00717.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00718.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00719.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00720.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00721.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00722.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00723.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00724.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00725.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00726.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00727.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00728.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00729.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00730.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00731.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00732.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00733.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00734.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00735.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00736.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00737.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00738.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00739.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00740.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00741.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00742.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00743.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00744.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00745.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00746.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00747.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00748.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00749.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00750.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00751.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00752.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00753.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00754.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00755.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00756.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00757.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00758.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00759.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00760.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00761.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00762.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00763.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00764.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00765.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00766.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00767.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00768.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00769.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00770.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00771.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00772.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00773.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00774.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00775.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00776.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00777.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00778.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00779.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00780.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00781.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00782.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00783.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00784.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00785.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00786.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00787.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00788.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00789.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00790.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00791.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00792.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00793.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00794.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00795.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00796.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00797.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00798.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00799.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00800.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00801.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00802.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00803.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00804.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00805.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00806.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00807.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00808.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00809.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00810.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00811.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00812.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00813.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00814.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00815.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00816.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00817.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00818.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00819.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00820.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00821.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00822.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00823.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00824.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00825.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00826.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00827.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00828.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00829.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00830.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00831.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00832.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00833.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00834.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00835.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00836.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00837.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00838.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00839.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00840.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00841.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00842.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00843.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00844.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00845.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00846.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00847.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00848.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00849.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00850.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00851.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00852.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00853.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00854.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00855.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00856.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00857.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00858.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00859.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00860.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00861.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00862.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00863.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00864.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00865.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00866.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00867.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00868.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00869.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00870.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00871.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00872.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00873.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00874.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00875.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00876.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00877.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00878.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00879.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00880.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00881.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00882.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00883.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00884.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00885.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00886.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00887.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00888.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00889.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00890.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00891.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00892.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00893.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00894.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00895.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00896.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00897.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00898.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00899.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00900.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00901.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00902.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00903.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00904.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00905.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00906.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00907.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00908.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00909.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00910.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00911.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00912.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00913.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00914.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00915.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00916.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00917.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00918.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00919.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00920.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00921.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00922.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00923.ppm 
+1 
+E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\Pedestran_Detect\Pedestrians64x128\Positive\per00924.ppm 
+1 

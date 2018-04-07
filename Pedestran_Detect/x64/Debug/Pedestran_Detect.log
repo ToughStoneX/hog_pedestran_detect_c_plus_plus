@@ -1,0 +1,11 @@
+﻿  源.cpp
+e:\opencv\opencv_3_1_0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\opencv_3_1_0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\opencv_3_1_0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\opencv_3_1_0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\my opencv projects\hog特征\hog_pedestran_detect\pedestran_detect\pedestran_detect\源.cpp(16): warning C4129: “o”: 不可识别的字符转义序列
+e:\opencv\my opencv projects\hog特征\hog_pedestran_detect\pedestran_detect\pedestran_detect\源.cpp(16): warning C4129: “M”: 不可识别的字符转义序列
+e:\opencv\my opencv projects\hog特征\hog_pedestran_detect\pedestran_detect\pedestran_detect\源.cpp(16): warning C4129: “H”: 不可识别的字符转义序列
+e:\opencv\my opencv projects\hog特征\hog_pedestran_detect\pedestran_detect\pedestran_detect\源.cpp(16): warning C4129: “P”: 不可识别的字符转义序列
+  Pedestran_Detect.vcxproj -> E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\x64\Debug\Pedestran_Detect.exe
+  Pedestran_Detect.vcxproj -> E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\x64\Debug\Pedestran_Detect.pdb (Full PDB)

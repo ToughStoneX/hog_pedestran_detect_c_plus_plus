@@ -1,0 +1,15 @@
+﻿  源.cpp
+E:\opencv\OpenCV_3_1_0\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\opencv\OpenCV_3_1_0\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\opencv\OpenCV_3_1_0\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\opencv\OpenCV_3_1_0\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+源.cpp(78): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+源.cpp(80): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+源.cpp(110): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  230 of 529 functions (43.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Pedestran_Detect.vcxproj -> E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\x64\Release\Pedestran_Detect.exe
+  Pedestran_Detect.vcxproj -> E:\opencv\My OpenCV projects\HOG特征\HOG_Pedestran_Detect\Pedestran_Detect\x64\Release\Pedestran_Detect.pdb (Full PDB)
